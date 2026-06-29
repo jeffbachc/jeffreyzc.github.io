@@ -8,7 +8,7 @@ title: Professional / R&D Projects
   font-size: 2rem;
 }
 </style>
-#### Selected work across thin films, nanomaterials, polymer materials, advanced characterization, data analysis, reactor systems, and prototype development. 
+#### Selected work across thin films, nanomaterials, advanced characterizations, data analysis, reactor systems, and prototype development. 
 
 <style>
 .project-block {
@@ -50,15 +50,19 @@ title: Professional / R&D Projects
   <p class="project-category">Advanced Materials</p>
 
   <p>
-I designed, fabricated, and characterized complex semiconductor thin films, including sub-10 nm films, to study how processing, structure, morphology, strain, and interfaces shape material behavior.
+I designed, fabricated, and characterized complex semiconductor thin films, including sub-10 nm films, to study how processing, structure, morphology, strain, defects, and interfaces shape material behavior. I mainly used pulsed laser deposition (PLD) to prepare epitaxial and domain matching epitaxial thin films. 
 </p>
 
   <div class="project-image">
-    <img src="assets/images/thin-film-prep.png" alt="Semiconductor thin-film design, fabrication, and characterization">
+    <img src="assets/images/thin-film-prep.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
+  </div>
+
+  <div class="project-image">
+    <img src="assets/images/epitaxial thin film.JPG" alt="Semiconductor thin-film design, fabrication, and characterization">
   </div>
   
 <p class="image-caption">
-Representative thin-film fabrication, crystallography, morphology, strain analysis, and atomic-scale characterization.
+Representative thin-film fabrication, crystallography, morphology, strain analysis, and atomic-scale characterization. 
 </p>
 </div>
 
@@ -70,7 +74,7 @@ Representative thin-film fabrication, crystallography, morphology, strain analys
   <p class="project-category">Advanced Characterization</p>
 
   <p>
-I developed advanced synchrotron-based characterization workflows, custom in situ tools, and beamline-compatible reactors to study structural and electronic changes in semiconductor thin films under functionally relevant conditions.
+I developed advanced synchrotron-based, diffraction and spectroscopy characterization workflows, custom in-situ tools, and beamline-compatible reactors to study the crystal and electronic structrual changes in semiconductor thin films under functionally relevant conditions. 
 </p>
 
 <div class="project-image">
